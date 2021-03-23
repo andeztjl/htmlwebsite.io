@@ -1,0 +1,32 @@
+body {
+  font-family: 'Saira Condensed', sans-serif;
+  background: url('lion.jpg') no-repeat center center fixed;  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.heading {
+  position: relative;
+  margin-top: 45vh;
+}
+
+.row {
+  position: relative;
+  margin-top: 20vh;
+}
+
+.col-sm-6 {
+  flex: 0 0 0%;
+  max-width: 50%;
+  padding-left: 2%;
+  padding-right: 1.2%;
+}
+
+.img-fluid {
+  max-width: 1350px;
+  height: 1000px;
+  padding-left: 5%;
+  padding-top: 4%;
+  padding-bottom: 2%;
+}
